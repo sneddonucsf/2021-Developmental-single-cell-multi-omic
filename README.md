@@ -16,8 +16,6 @@ Human_Fetal_Endocrine_SCENIC_analysis.R - Perform Gene Regulatory Network (GRN) 
 
 snATAC_Seq_Analysis.R - Initialize snATAC Seq analysis from 10x Genomics CellRanger outs with ArchR. Script details creating Arrow Files, initializing ArchR project, filtering, dimensional reduction, clustering, UMAP visualization, and snATAC-Seq scRNA Seq unconstrained integration. 
 
-GWAS_SNP_analysis - Folder containing the relevant scripts and files in order to perform GWAS enrichment scoring on the snATAC Seq endocrine dataset. The folder contains all of the necessary files and scripts to calculate T1D and T2D SNP enrichment on a cell-type specific manner.
-
 In_Vitro_FEV_KO_DESeq2.R - Generate differentially expressed genes between FEV WT and KO conditions from bulk RNA Sequencing datasets. Script details loading in count files from 6 samples (3 pairs of WT and KO differentiations) and performing differential gene expression analysis with DESeq2. 
 
 
