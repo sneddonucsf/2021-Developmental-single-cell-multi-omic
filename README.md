@@ -10,8 +10,6 @@ Broad_Group_CellFindR_Subcluster.R - Subset merged dataset for each Broad Group 
 
 CellFindR_Functions.R - Script for creating the CellFindR functions ran on the various datasets in the paper. 
 
-Human_Fetal_Endocrine_scRNA_Seq_Slingshot_TradeSeq.R - Perform pseudotime reconstruction on human fetal endocrine dataset and differential gene expression analysis on a per-lineage basis. Script details performing pseudotemporal ordering with Slingshot and differential gene expression analysis with TradeSeq.
-
 Human_Fetal_Endocrine_SCENIC_analysis.R - Perform Gene Regulatory Network (GRN) analysis on human fetal endocrine dataset using R package SCENIC. Script details building TF/RNA expression modules, pruning off target targets of TFs and area-under-the-curve (AUC) calculations. 
 
 snATAC_Seq_Analysis.R - Initialize snATAC Seq analysis from 10x Genomics CellRanger outs with ArchR. Script details creating Arrow Files, initializing ArchR project, filtering, dimensional reduction, clustering, UMAP visualization, and snATAC-Seq scRNA Seq unconstrained integration. 
