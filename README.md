@@ -16,7 +16,9 @@ snATAC_Seq_Analysis.R - Initialize snATAC Seq analysis from 10x Genomics CellRan
 
 In_Vitro_FEV_KO_DESeq2.R - Generate differentially expressed genes between FEV WT and KO conditions from bulk RNA Sequencing datasets. Script details loading in count files from 6 samples (3 pairs of WT and KO differentiations) and performing differential gene expression analysis with DESeq2. 
 
+Preprocessing - Process adult pancreas snATAC Seq raw data (GSE160472, Chiou et al., 2021) to make ArrowFiles for analysis in ArchR. 
 
+GWAS - Take differential peak analysis from human fetal vs. adult comparisons to look for GWAS SNP enrichment. 
 
 
 
