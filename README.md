@@ -1,4 +1,4 @@
-# 2021-Developmental-single-cell-multi-omic
+# 2022-Developmental-single-cell-multi-omic
 
 Scripts used for analysis of data in manuscript @ https://www.biorxiv.org/content/10.1101/2022.02.17.480942v1. 
 
