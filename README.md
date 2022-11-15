@@ -1,7 +1,5 @@
 # 2022-Developmental-single-cell-multi-omic
 
-Scripts used for analysis of data in manuscript @ https://www.biorxiv.org/content/10.1101/2022.02.17.480942v1. 
-
 SCRIPTS DESCRIPTION: 
 
 scRNA_Seq_Fetal_Merge.R - Initialize Seurat objects from 10x Genomics CellRanger outs and computationally merge all datasets together using Seurat v3.2 Standard Integration. Script details loading the datasets, filtering, normalization, variable gene identification, integration, PCA analysis, clustering and UMAP visualization. Used for all human fetal scRNA Seq datasets. 
